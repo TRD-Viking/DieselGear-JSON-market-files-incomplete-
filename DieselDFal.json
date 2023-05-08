@@ -1,0 +1,691 @@
+{
+    "m_Version": 12,
+    "DisplayName": "DIESEL FAL",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Diesel_DFAL_Visa",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "Diesel_DFAL_Bttstck_Visa",
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_DFAL_Omega",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "Diesel_DFAL_Bttstck_Omega",
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_DFAL_Brownyz",
+            "MaxPriceThreshold": 3200,
+            "MinPriceThreshold": 1600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "Diesel_DFAL_Bttstck_Brownyz",
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_DFAL_DGSkin",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "Diesel_DFAL_Bttstck_DGSkin",
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_DFAL_GRBSkin",
+            "MaxPriceThreshold": 3200,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"Diesel_DFAL_Bttstck_GRBSkin",
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_DFALZ_LosToxic",
+            "MaxPriceThreshold": 3200,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_DFALZ_Bobstone",
+            "MaxPriceThreshold": 3200,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_DFALZ_BossMan",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_DFALZ_Gold",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_Shane",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_Xeries",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_ScotMil",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_TakiCamo",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_RTBlueCamo",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_Yalson",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_HelloKitty",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_Omega",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_Swirly",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_ORTCamo",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_PinkRTCamo",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_DTec3",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_TD",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_AndyRoo",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_Splatter",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+	    {
+            "ClassName": "Diesel_DFALZ_MBear2",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_MBear",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_AMC",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_ElecBlue",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_ElecPur",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_GldFiber",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_Hunter",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+	    {
+            "ClassName": "Diesel_DFALZ_LMossy",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_SnowGhillie",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_Rustoxic",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_Toxic",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_Toxic2",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_PRbow",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		 {
+            "ClassName": "Diesel_DFALZ_MMBP",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ_Bobstone",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFALZ",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFAL_TakiCamo",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFAL_RTBlueCamo",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFAL_Yalson",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFAL_Peyton",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFAL_TD",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFAL_AMC",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFAL_ElecBlue",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFAL_ElecPur",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFAL_ElecRed",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFAL_GldFiber",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFAL_CaliBlaze2",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "Diesel_DFAL_CauperHed",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        }
+    ]
+}
