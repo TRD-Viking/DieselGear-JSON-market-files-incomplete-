@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "Diesel_MP5Z",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 1700,
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 12500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "Diesel_MP5Z_Snow",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 12500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "Diesel_AssBlasterColt1911",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 1700,
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 2250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -20,7 +20,7 @@
         {
             "ClassName": "Diesel_AssBlasterEngraved1911",
             "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 1500,
+            "MinPriceThreshold": 2250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "Diesel_Colt1911_Gold",
-            "MaxPriceThreshold": 3200,
-            "MinPriceThreshold": 1600,
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 2250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -42,7 +42,7 @@
         {
             "ClassName": "Diesel_Colt1911_Snow",
             "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 1600,
+            "MinPriceThreshold": 2250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "Diesel_WOLFFColt1911",
-            "MaxPriceThreshold": 3200,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 2250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -63,8 +63,8 @@
         },
         {
             "ClassName": "Diesel_WOLFFEngraved1911",
-            "MaxPriceThreshold": 3200,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 2250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -74,8 +74,8 @@
         },
         {
             "ClassName": "Diesel_BEARColt1911",
-            "MaxPriceThreshold": 3200,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 2250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -85,8 +85,8 @@
         },
         {
             "ClassName": "Diesel_BEAREngraved1911",
-            "MaxPriceThreshold": 560,
-            "MinPriceThreshold": 160,
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 2250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

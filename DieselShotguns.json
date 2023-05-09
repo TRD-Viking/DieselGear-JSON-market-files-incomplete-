@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "Diesel_Saiga",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 1700,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -30,7 +30,7 @@
         },
         {
             "ClassName": "Diesel_Saiga_Snow",
-            "MaxPriceThreshold": 3200,
+            "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 1600,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,

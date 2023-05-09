@@ -19,7 +19,7 @@
         },
         {
             "ClassName": "Diesel_Ruger1022",
-            "MaxPriceThreshold": 3000,
+            "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 1500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "Diesel_AKH",
-            "MaxPriceThreshold": 3200,
-            "MinPriceThreshold": 1600,
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 22500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -42,7 +42,7 @@
         {
             "ClassName": "Diesel_AKH_Camo",
             "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 1600,
+            "MinPriceThreshold": 22500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -52,7 +52,7 @@
         },
         {
             "ClassName": "Diesel_AKH_BlkRed",
-            "MaxPriceThreshold": 3200,
+            "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 1500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -63,7 +63,7 @@
         },
         {
             "ClassName": "Diesel_AKH_BluGn",
-            "MaxPriceThreshold": 3200,
+            "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 1500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -74,7 +74,7 @@
         },
         {
             "ClassName": "Diesel_AKH_PurGn",
-            "MaxPriceThreshold": 3200,
+            "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 1500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -85,8 +85,8 @@
         },
         {
             "ClassName": "Diesel_AKH_RedPurB",
-            "MaxPriceThreshold": 560,
-            "MinPriceThreshold": 160,
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 2250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -96,8 +96,8 @@
         },
         {
             "ClassName": "Diesel_AKH_YPur",
-            "MaxPriceThreshold": 560,
-            "MinPriceThreshold": 160,
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 2250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -107,8 +107,8 @@
         },
 		{
             "ClassName": "Diesel_M4",
-            "MaxPriceThreshold": 560,
-            "MinPriceThreshold": 160,
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 2250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -118,8 +118,8 @@
         },
 		{
             "ClassName": "Diesel_M4_DeFault",
-            "MaxPriceThreshold": 560,
-            "MinPriceThreshold": 160,
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 2250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -129,8 +129,8 @@
         },
 		{
             "ClassName": "Diesel_M4_Toxic",
-            "MaxPriceThreshold": 560,
-            "MinPriceThreshold": 160,
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 2250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -140,8 +140,8 @@
         },
 		{
             "ClassName": "Diesel_FAL_Purp",
-            "MaxPriceThreshold": 560,
-            "MinPriceThreshold": 160,
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 2250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -151,8 +151,8 @@
         },
 		{
             "ClassName": "Diesel_FAL_Gold",
-            "MaxPriceThreshold": 560,
-            "MinPriceThreshold": 160,
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 2250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -162,8 +162,8 @@
         },
 		{
             "ClassName": "Diesel_FAL_Blue",
-            "MaxPriceThreshold": 560,
-            "MinPriceThreshold": 160,
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 2250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

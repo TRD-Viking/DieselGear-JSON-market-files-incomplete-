@@ -1,0 +1,120 @@
+{
+    "m_Version": 12,
+    "DisplayName": "DIESEL CANTEENS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+    	{
+			"ClassName": "Diesel_Canteen",
+			"MaxPriceThreshold": 150,
+			"MinPriceThreshold": 85,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+			"ClassName": "Diesel_Canteen_Blk",
+			"MaxPriceThreshold": 150,
+			"MinPriceThreshold": 85,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+			"ClassName": "Diesel_Canteen_BlkW",
+			"MaxPriceThreshold": 150,
+			"MinPriceThreshold": 85,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+			"ClassName": "Diesel_Canteen_Blueice",
+			"MaxPriceThreshold": 150,
+			"MinPriceThreshold": 85,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+			"ClassName": "Diesel_Canteen_DPRbow",
+			"MaxPriceThreshold": 150,
+			"MinPriceThreshold": 85,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+			"ClassName": "Diesel_Canteen_LMossy",
+			"MaxPriceThreshold": 150,
+			"MinPriceThreshold": 85,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+			"ClassName": "Diesel_Canteen_PRbow",
+			"MaxPriceThreshold": 150,
+			"MinPriceThreshold": 85,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+			"ClassName": "Diesel_Canteen_Snow",
+			"MaxPriceThreshold": 150,
+			"MinPriceThreshold": 85,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+			"ClassName": "Diesel_Canteen_W",
+			"MaxPriceThreshold": 150,
+			"MinPriceThreshold": 85,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+			"ClassName": "Diesel_Canteen_YRbow",
+			"MaxPriceThreshold": 150,
+			"MinPriceThreshold": 85,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}   

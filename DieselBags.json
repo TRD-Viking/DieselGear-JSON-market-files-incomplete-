@@ -1,15 +1,15 @@
 {
     "m_Version": 12,
-    "DisplayName": "DIESEL BOOTS",
+    "DisplayName": "DIESEL BACKPACKS",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
     "InitStockPercent": 75.0,
     "Items": [
     	{
-			"ClassName": "Diesel_HikingLow_Omega",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_TortillaBag_Omega",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -18,9 +18,9 @@
             "Variants": []
         },
         {
-			"ClassName": "Diesel_HikingLow_FireEric",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_TortillaBag_FireEric",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -29,9 +29,9 @@
             "Variants": []
         },
         {
-			"ClassName": "Diesel_HikingLow_Visa",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_TortillaBag_Visa",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -40,9 +40,9 @@
             "Variants": []
         },
         {
-			"ClassName": "Diesel_HikingLow_CauperHed",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_TortillaBag_CauperHed",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -51,9 +51,9 @@
             "Variants": []
         },
         {
-			"ClassName": "Diesel_HikingLow_FireDog2",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_TortillaBag_Zed",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -62,9 +62,9 @@
             "Variants": []
         },
         {
-			"ClassName": "Diesel_HikingLow_FireDog",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_TortillaBag_FireDog",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -73,9 +73,9 @@
             "Variants": []
         },
         {
-			"ClassName": "Diesel_HikingLow_Brownyz",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_TortillaBag_FireDog2",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -84,9 +84,9 @@
             "Variants": []
         },
         {
-			"ClassName": "Diesel_HikingLow_Peddles",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_TortillaBag_Brownyz",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -95,9 +95,9 @@
             "Variants": []
         },
         {
-			"ClassName": "Diesel_HikingLow_DGSkin",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_TortillaBag_Peddles",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -106,9 +106,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_HikingLow_TakiCamo",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_TortillaBag_DGSkin",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -117,9 +117,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_HikingLow_RTBlueCamo",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_TortillaBag_TakiCamo",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -128,9 +128,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_HikingLow_HelloKitty",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_TortillaBag_RTBlueCamo",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -139,9 +139,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_HikingLow_TD",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_MntHiking_Black",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -150,9 +150,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_HikingLow_ORTCamo",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_MntHiking_BlkBlue",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -161,9 +161,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_HikingLow_PinkRTCamo",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_MntHiking_BlkBlueice",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -172,9 +172,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_Wellies_PinkPoka",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_MntHiking_BlkCamo",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -183,9 +183,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_Wellies_PinkLeaf",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_MntHiking_BlkGrey",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -194,9 +194,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_JoggingShoes_BlueGrey",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_MntHiking_BlkLMossy",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -205,9 +205,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_JoggingShoes_BlueGrey_W",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_MntHiking_BlkMedic",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -216,9 +216,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_JoggingShoes_GreenGrey",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_MntHiking_Blueice",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -227,9 +227,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_JoggingShoes_GreenGrey_W",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_MntHiking_BlkPRbow",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -238,9 +238,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_JoggingShoes_PinkGrey_W",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_TortillaBag_HelloKitty",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -249,9 +249,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_JoggingShoes_PurpleGrey",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_TortillaBag_TD",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -260,9 +260,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_HikingLow_Camo2",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_TortillaBag_ORTCamo",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -271,9 +271,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_HikingLow_Camo",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_TortillaBag_PinkRTCamo",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -282,9 +282,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_HikingLow_BlkGrey",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_MntHiking_FieldWolff",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -293,9 +293,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_HikingLow_Mossy",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_MntHiking_DPRbow",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -304,9 +304,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_HikingLow_LMossy",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_MntHiking_KryptecSnow",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -315,9 +315,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_HikingLow_LMossy2",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_MntHiking_KryptecSnow2",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -326,9 +326,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_HikingLow_Blueice",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_MntHiking_LMossy",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -337,9 +337,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_HikingLow_DPRbow",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_MntHiking_Mossy",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -348,9 +348,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_HikingLow_PRbow",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_MntHiking_PRbow",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -359,9 +359,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_HikingLow_YRbow",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_MntHiking_Realtree",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -370,9 +370,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_HikingLow_Snow",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_MntHiking_Snow",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -381,9 +381,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_HikingLow_BlkCamo",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_MntHiking_YRbow",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -392,9 +392,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_MilitaryBoots_PurplePunk",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_MntHiking_Red",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -403,9 +403,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_MilitaryBoots_GreenPunk",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_MntHiking_Blue",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -414,9 +414,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_MilitaryBoots_BluePunk",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_MntHiking_Orange",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -425,9 +425,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_MilitaryBoots_RedPunk2",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_MntHiking_Green",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -436,9 +436,9 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_MilitaryBoots_Toxic",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_TortillaBag_Purp",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -447,9 +447,130 @@
             "Variants": []
         },
 		{
-			"ClassName": "Diesel_MedicBoots",
-			"MaxPriceThreshold": 1500,
-			"MinPriceThreshold": 750,
+			"ClassName": "Diesel_TortillaBag_PRbow",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+			"ClassName": "Diesel_TortillaBag_Rustoxic",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+			"ClassName": "Diesel_TortillaBag_Toxic",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+			"ClassName": "Diesel_TortillaBag_PurpFade",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+			"ClassName": "Diesel_TortillaBag_RTFaded",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+			"ClassName": "Diesel_TortillaBag_RTFadedP",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+			"ClassName": "Diesel_TortillaBag_Green",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+			"ClassName": "Diesel_TortillaBag_Blue",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+			"ClassName": "Diesel_TortillaBag_DDBlue",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+			"ClassName": "Diesel_WpGearBag_Camo",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+			"ClassName": "Diesel_WpGearBag_LMossy",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+			"ClassName": "Diesel_WpGearBag_PRbow",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
